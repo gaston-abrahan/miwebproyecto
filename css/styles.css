@@ -188,3 +188,22 @@ a.custom-card:hover {
 .checked {
   color: orange;
 }
+
+#productos{
+  text-align: center;
+}
+/*Mi login*/
+.login{
+  height: 100%;
+  text-align: center;
+  margin: auto;
+  width: 20rem;
+  font-size: 20px;
+} 
+#imgLogin{
+    width: 300px;
+    height: 200px;
+}
+#formLogin{
+  transform: translateY(15%);
+}
